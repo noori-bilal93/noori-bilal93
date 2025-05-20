@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi there, I'm Bilal Noori
 
-<!--
-**noori-bilal93/noori-bilal93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Software Engineering student at **Macquarie University**, passionate about building interactive, user-friendly applications and learning by doing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+- Git & GitHub for team collaboration
+- Interactive animation using Processing
+- Object-oriented programming in Java
+- Full-stack development (HTML, CSS, JS, Node.js)
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Java, Python, JavaScript
+- **Tools**: Git, GitHub, VS Code, IntelliJ, Processing
+- **Currently exploring**: React, Tailwind CSS, Firebase
+
+---
+
+### 🚀 Projects
+- 💡 Group animation project: Vendor & Boat (Processing)
+- 📘 Personal website (coming soon)
+- 🛒 Planning an online gadget store (Noori Gadgets)
+
+---
+
+### 🤝 Let's Connect!
+- 📫 Email: ahmadbilalnoori10@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-bilal-noori-99a294292/)
+
+---
+
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noori-bilal93&show_icons=true&theme=radical)  
+
+
